@@ -1,0 +1,49 @@
+* {
+    color: rgb(255, 255, 255);
+}
+#navbar {
+    height: 40px;
+    width: 92%;
+    background-color: rgba(47, 53, 45, 0.932);
+    padding-top: 20px;
+    margin: 50px 0px 0px 150px 100px;
+}
+a {
+    margin:110px 110px 110px 110px;
+    text-align: center;
+    color: #ffffff;
+    text-decoration-style: wavy;
+}
+
+div {
+    height:375px;
+    width: 250px;
+    text-align: center;
+    border: 2px solid rgb(109, 98, 98);
+    border-radius: 5px;
+    margin:50px 0px 0px 70px;
+    display: inline-block;
+
+}
+button {
+    background-color: rgb(16, 22, 22);
+    text-shadow: 2px;
+}
+#C1A {
+    background-color:#fc0505;
+}
+#C1 {
+    background-color: #6f9feb;
+
+}
+#C2 {
+    background-color:#ed094a;
+}
+#C3 {
+    background-color: blue;
+}
+
+#H1 {
+    text-decoration-line: underline;
+
+}
